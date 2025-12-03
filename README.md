@@ -48,11 +48,6 @@ The goal is to understand sales patterns, clean and preprocess the dataset, and 
    - Dropped irrelevant columns (`Item_Identifier`).  
    - Scaled numerical features for consistency.  
 
-4. **Modeling**  
-   - Used **Random Forest Regressor** for prediction.  
-   - Achieved:  
-     - **RMSE:** ~1085.09  
-     - **R² Score:** ~0.56  
 
 ---
 
@@ -62,23 +57,5 @@ The goal is to understand sales patterns, clean and preprocess the dataset, and 
 - Random Forest performed well but further hyperparameter tuning could improve accuracy.  
 
 ---
-
-## 💻 Tech Stack
-- **Languages:** Python  
-- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
-- **ML Model:** Random Forest Regressor  
-
----
-
-## 🚀 Future Enhancements
-- Hyperparameter tuning with **GridSearchCV** or **RandomizedSearchCV**.  
-- Try other regression models (XGBoost, LightGBM, Linear Regression).  
-- Deploy the model with **Flask/Streamlit** for interactive sales prediction.  
-
----
-
-## 📌 Author
-👩‍💻 **Bhuvaneswari S**  
-- [GitHub](https://github.com/Bhuvaneswarishe)  
-- [LinkedIn](https://linkedin.com/in/bhuvanas5)  
+<img width="1512" height="852" alt="image" src="https://github.com/user-attachments/assets/a3390b3b-02b8-4918-878c-c15a38999056" />
 
